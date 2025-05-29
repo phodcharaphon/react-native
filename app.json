@@ -33,10 +33,23 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b9c3aeb5-7dc8-4ef1-9f92-28ef75ccf202"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b9c3aeb5-7dc8-4ef1-9f92-28ef75ccf202"
     }
   }
 }
